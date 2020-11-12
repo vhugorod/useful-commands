@@ -99,7 +99,7 @@ Usage: `git branch -d [branch name]`
 
 This command deletes the feature branch.
 
-## git checkoutmen
+## git checkout
 Usage: `git checkout [branch name]`  
 
 This command is used to switch from one branch to another.
