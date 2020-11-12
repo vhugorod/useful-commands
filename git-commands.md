@@ -55,7 +55,9 @@ Usage: `git reset [commit]`
 
 This command undoes all the commits after the specified commit and preserves the changes locally.
 
-Usage: `git reset --hard [commit]  This command discards all history and goes back to the specified commit.`
+Usage: `git reset --hard [commit]`  
+
+This command discards all history and goes back to the specified commit.
 
 ## git status
 Usage: `git status`  
