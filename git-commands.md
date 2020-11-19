@@ -76,6 +76,11 @@ Usage: `git log –follow[file]`
 
 This command lists version history for a file, including the renaming of files also.
 
+## git reflog
+Usage> `git reflog`
+
+This command is used to list the Hashes in lines.
+
 ## git show
 Usage: `git show [commit]`  
 
