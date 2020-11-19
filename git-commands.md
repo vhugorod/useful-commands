@@ -55,7 +55,9 @@ Usage: `git reset [commit]`
 
 This command undoes all the commits after the specified commit and preserves the changes locally.
 
-Usage: `git reset –hard [commit]  This command discards all history and goes back to the specified commit.`
+Usage: `git reset --hard [commit]`  
+
+This command discards all history and goes back to the specified commit.
 
 ## git status
 Usage: `git status`  
@@ -104,7 +106,7 @@ Usage: `git branch -d [branch name]`
 
 This command deletes the feature branch.
 
-## git checkoutmen
+## git checkout
 Usage: `git checkout [branch name]`  
 
 This command is used to switch from one branch to another.
@@ -161,3 +163,7 @@ This command lists all stashed changesets.
 Usage: `git stash drop`  
 
 This command discards the most recently stashed changeset.
+
+## Useful Link
+
+https://dzone.com/articles/top-20-git-commands-with-examples
