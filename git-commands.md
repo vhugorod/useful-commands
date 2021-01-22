@@ -167,3 +167,17 @@ This command discards the most recently stashed changeset.
 ## Useful Link
 
 https://dzone.com/articles/top-20-git-commands-with-examples
+
+## Git messages
+
+### chore: A change that neither fix a bug nor adds a feature
+
+### ci: A CI change
+
+### docs: A documentation change or fix
+
+### feat: A new feature
+
+### fix: A bug fix
+
+### test: A test-related change
