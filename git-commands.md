@@ -164,6 +164,12 @@ Usage: `git stash drop`
 
 This command discards the most recently stashed changeset.
 
+## git commit --amend
+
+Usage: `git commit --amend`
+
+This command change the commit message.
+
 ## Useful Link
 
 https://dzone.com/articles/top-20-git-commands-with-examples
