@@ -170,6 +170,12 @@ Usage: `git commit --amend`
 
 This command change the commit message.
 
+## git tags
+
+Usage: `git tag 1.0.0 <commitID>`
+  
+You can use tagging to mark a significant changeset, such as a release:
+
 ## Useful Link
 
 https://dzone.com/articles/top-20-git-commands-with-examples
