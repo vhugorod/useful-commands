@@ -176,6 +176,12 @@ Usage: `git tag 1.0.0 <commitID>`
   
 You can use tagging to mark a significant changeset, such as a release:
 
+## git search
+
+Usage: `git grep "foo()"`
+
+This command search the working directory for foo():
+
 ## Useful Link
 
 https://dzone.com/articles/top-20-git-commands-with-examples
