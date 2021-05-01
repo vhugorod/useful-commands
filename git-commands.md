@@ -57,6 +57,14 @@ This command undoes all the commits after the specified commit and preserves the
 
 Usage: `git reset --hard [commit]`  
 
+This command undoes the last 3 commits and deletes the changes locally.
+
+Usage: `git reset HEAD~3 --hard [commit]`  
+
+This command undoes the last 3 commits and preserves the changes locally(staginf area).
+
+Usage: `git reset HEAD~3 --soft [commit]` 
+
 This command discards all history and goes back to the specified commit.
 
 ## git status
@@ -168,7 +176,7 @@ This command discards the most recently stashed changeset.
 
 Usage: `git commit --amend`
 
-This command change the commit message.
+This command change the last commit message locally.
 
 ## git tags
 
