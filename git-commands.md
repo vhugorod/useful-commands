@@ -190,6 +190,11 @@ Usage: `git grep "foo()"`
 
 This command search the working directory for foo():
 
+## git log
+Usage: `git log --oneline` 
+
+This command is used to observe all changes on my branch DEV.
+
 ## Useful Link
 
 https://dzone.com/articles/top-20-git-commands-with-examples
