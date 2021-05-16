@@ -195,6 +195,16 @@ Usage: `git log --oneline`
 
 This command is used to observe all changes on my branch DEV.
 
+## git branch -D NOMEDABRANCH
+Usage: `git branch -D NOMEDABRANCH` 
+
+This command is used to delete a Branch.
+
+## git checkout --orphan NOMEDABRANCH
+Usage: `git checkout --orphan NOMEDABRANCH` 
+
+This command is used to create an emprty Branch, example: I have the API whitch one project and I have Web project which is another project.
+
 ## Useful Link
 
 https://dzone.com/articles/top-20-git-commands-with-examples
