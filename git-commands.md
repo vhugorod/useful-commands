@@ -205,6 +205,11 @@ Usage: `git checkout --orphan NOMEDABRANCH`
 
 This command is used to create an emprty Branch, example: I have the API whitch one project and I have Web project which is another project.
 
+## git rm -r NOMEDOARQUIVO
+Usage: `git rm -r NOMEDOARQUIVO`
+
+This command is used to delete a file or directory from local tracking git. It helps us to delete files from remote origin(GITHUB). 
+
 ## Useful Link
 
 https://dzone.com/articles/top-20-git-commands-with-examples
