@@ -210,6 +210,13 @@ Usage: `git rm -r NOMEDOARQUIVO`
 
 This command is used to delete a file or directory from local tracking git. It helps us to delete files from remote origin(GITHUB). 
 
+## git fetch origin && git reset --hard origin/master && git clean -f -d
+Usage: `git fetch origin
+git reset --hard origin/master
+git clean -f -d`
+
+This command is used to sync remote repositories to localhost. It won't show the branch's name, but it's in your SO.
+
 ## Useful Link
 
 https://dzone.com/articles/top-20-git-commands-with-examples
