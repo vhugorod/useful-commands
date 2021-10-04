@@ -210,6 +210,11 @@ Usage: `git rm -r NOMEDOARQUIVO`
 
 This command is used to delete a file or directory from local tracking git. It helps us to delete files from remote origin(GITHUB). 
 
+## git checkout -t <name of remote>/NOMEDABRANCH
+Usage: `git checkout -t origin/login`
+
+This command get remote branch to local project.
+
 ## git fetch origin && git reset --hard origin/master && git clean -f -d
 Usage: `git fetch origin
 git reset --hard origin/master
