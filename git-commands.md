@@ -51,6 +51,11 @@ Usage: `git reset [file]`
 
 This command unstages the file, but it preserves the file contents.
 
+## git revert
+Usage: `git revert [commit]`  
+
+This command unstages the file and add a commit.
+
 Usage: `git reset [commit]`  
 
 This command undoes all the commits after the specified commit and preserves the changes locally.
