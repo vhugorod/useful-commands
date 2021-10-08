@@ -106,6 +106,16 @@ Usage: `git tag [commitID]`
 
 This command is used to give tags to the specified commit.
 
+## git tag -d NOMEDATAG
+Usage: `git tag -d v1.0`
+
+This command is used to delete a local tag.
+
+## git push --delete origin NOMEDATAG
+Usage: `git push --delete origin v1.0`
+
+This command is used to delete a renote tag.
+
 ## git branch
 Usage: `git branch`  
 
