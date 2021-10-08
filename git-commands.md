@@ -187,7 +187,13 @@ This command change the last commit message locally.
 
 Usage: `git tag 1.0.0 <commitID>`
   
-You can use tagging to mark a significant changeset, such as a release:
+You can use tagging to mark a significant changeset, such as a release.
+
+## git push origin TAGVERSION
+
+Usage: `git push origin 1.0.0`
+  
+This command is used to push a tag in remote repository.
 
 ## git search
 
