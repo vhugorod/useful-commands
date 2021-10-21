@@ -101,16 +101,6 @@ Usage: `git show [commit]`
 
 This command shows the metadata and content changes of the specified commit.
 
-## git tag
-Usage: `git tag [commitID]`  
-
-This command is used to give tags to the specified commit.
-
-## git tag -d NOMEDATAG
-Usage: `git tag -d v1.0`
-
-This command is used to delete a local tag.
-
 ## git push --delete origin NOMEDATAG
 Usage: `git push --delete origin v1.0`
 
@@ -204,6 +194,11 @@ You can use tagging to mark a significant changeset, such as a release.
 Usage: `git push origin 1.0.0`
   
 This command is used to push a tag in remote repository.
+
+## git tag -d NOMEDATAG
+Usage: `git tag -d v1.0`
+
+This command is used to delete a local tag.
 
 ## git search
 
