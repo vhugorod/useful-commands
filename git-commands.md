@@ -238,6 +238,11 @@ git clean -f -d`
 
 This command is used to sync remote repositories to localhost. It won't show the branch's name, but it's in your SO.
 
+## git rm --cached -r FILENAME OR FOLDER
+Usage: `git rm --cached -r /src/Website/Scripts/common.js`
+
+This command is used to remove duplicate file tracking in Git.
+
 ## Useful Link
 
 https://dzone.com/articles/top-20-git-commands-with-examples
