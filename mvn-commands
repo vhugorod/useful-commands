@@ -1,0 +1,9 @@
+## mvn debug flag
+Usage: `mvn -X`
+
+This command produce execution debug output.
+
+## mvn error flag
+Usage: `mvn -e`
+
+This command produce execution error messages.
