@@ -1,9 +1,21 @@
-## mvn debug flag
-Usage: `mvn -X`
+##Clean project
 
-This command produce execution debug output.
+`mvn clean`
 
-## mvn error flag
-Usage: `mvn -e`
+##Install the dependencies
 
-This command produce execution error messages.
+`mvn install`
+
+##Run local project
+
+`mvn spring-boot:run`
+
+##Generate build
+
+`mvn package`
+
+##MVN debug flag
+`mvn -X`
+
+##MVN error flag
+`mvn -e`
