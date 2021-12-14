@@ -15,7 +15,10 @@
 `mvn package`
 
 ##MVN debug flag
-`mvn -X`
+`mvn -X or --debug`
 
 ##MVN error flag
-`mvn -e`
+`mvn -e or --errors`
+
+##MVN only error flag
+`mvn -q or --quiet`
