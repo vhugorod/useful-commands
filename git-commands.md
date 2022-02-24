@@ -179,7 +179,7 @@ This command discards the most recently stashed changeset.
 
 ## git commit --amend
 
-Usage: `git commit --amend`
+Usage: `git commit --amend` or Usage: git commit --amend -m "commit message"
 
 This command change the last commit message locally.
 
