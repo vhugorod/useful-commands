@@ -1,18 +1,12 @@
-# Repositório Utils
+# Useful commands
 
-## Descrição
-Repositório destinado a commandos utilizatarios usados no desenvolvimento de Software
+## About
 
-## Como contribuir
-1. Clique em "Fork" na barra superior direita do repositório 
+Repository for utility commands used in software development such as docker, git, maven CLI commands and more.
 
-![fork](https://github.com/Vitorhr10/utils/blob/main/images/fork.png)
+## How to contribute
 
-2. Crie uma nova Branch com a sua nova implementação: `git checkout -b my-feature`
-3. Comita suas alterações no Git: `git commit -m 'feat: My new feature'`
-4. Envie sua branch para o GitHub: `git push origin my-feature`
-5. Acesse o repositório no GitHub Web e abra uma Pull Request(PR) para a branch Main.
-
-![pull request](https://github.com/Vitorhr10/utils/blob/main/images/pullrequest.png)
-
-6. Espere a aprovação do Adm do repositorio para sua branch entrar na branch "Main", ou seja, branch principal do projeto.
+1. Fork this repository
+2. Create a branch with your feature: `git checkout -b my-feature`
+3. Commit your changes: `git commit -m 'feat: My new feature'`
+4. Push your branch: `git push origin my-feature`
