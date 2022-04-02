@@ -34,12 +34,12 @@ Usage:
 ## Unformatted code
 Syntax:
 ```
-`Escreva seu código entre as aspas simples`
+`Write your code in single quotes`
 ```
 
 Usage:
 
-`Escreva seu código entre as aspas`
+`Write your code in single quotes`
 
 ---
 
@@ -118,17 +118,6 @@ Usage:
 
 ---
 
-## Quote
-Syntax:
-```
-> Write your text here
-```
-
-Usage:
-> Write your text here
-
----
-
 ## Unordered list
 Syntax 
 ```
@@ -141,3 +130,14 @@ Usage:
 - first
 - second
 - third
+
+---
+
+## Quote
+Syntax:
+```
+> Write your text here
+```
+
+Usage:
+> Write your text here
