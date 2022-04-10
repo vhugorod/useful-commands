@@ -241,6 +241,8 @@ This command deletes the file from your working directory and stages the deletio
 
 ### feat: A new feature
 
+### refactor: Refactor a method or function
+
 ### fix: A bug fix
 
 ### test: A test-related change
