@@ -19,7 +19,7 @@ Usage: `mvn package`
 This command is used to build the application, in other words it will generate war or jar file.
 
 ## MVN debug flag
-Usage: `mvn -X or --debug`
+Usage: `mvnDebug vertx:runMod` or `mvn -X or --debug`
 
 This command is used to debug the application in console.
 
