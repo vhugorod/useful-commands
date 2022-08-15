@@ -1,143 +1,161 @@
-## Title
-Syntax:
-```
-# Title
-## Title
-### Title
-#### Title
-##### Title
-###### Title
-```
+# Lista de comandos em Markdown
 
-Usage:
-# Title
-## Title
-### Title
-#### Title
-##### Title
-###### Title
+Veja abaixo uma lista dos comandos em markdown e alguns exemplos de seu uso:
 
----
+## Título
 
-## Bold
-Syntax:
-```
-**write something in bold**
+**Sintaxe**
+```txt
+# Título
+## Título
+### Título
+#### Título
+##### Título
+###### Título
 ```
 
-Usage:
+Exemplo:
+# Título
+## Título
+### Título
+#### Título
+##### Título
+###### Título
 
-**write something in bold**
+----------
 
----
+## Negrito
 
-## Unformatted code
-Syntax:
+Sintaxe:
+```language
+**Escreva algo em negrito**
 ```
-`Write your code in single quotes`
+
+Exemplo:
+
+**Escreva algo em negrito**
+
+----------
+
+## Código não formatado
+```
+`Escreva seu código entre as aspas simples`
 ```
 
-Usage:
+Exemplo:
 
-`Write your code in single quotes`
+`Escreva seu código entre as aspas`
 
----
+----------
 
-## Formatted code
-Syntax:
+## Código formatado
+Sintaxe:
 ```
-Write your code in triple single quotes following the language name.
+Escreva seu código entre as aspas simples tripla seguindo nome da linguagem.
 
-```javascript WRITE YOUR CODE HERE```
+```javascript ESCREVA SEU CÓDIGO AQUI```
 
 ```
-Usage:
+Exemplo:
 
 ```javascript
-function fooFunction() {
-  var foo = "foo";
-  return foo;
+function mostrarProps(obj, nomeDoObj) {
+  var resultado = "";
+  for (var i in obj) {
+    if (obj.hasOwnProperty(i)) {
+        resultado += nomeDoObj + "." + i + " = " + obj[i] + "\n";
+    }
+  }
+  return resultado;
 }
 ```
----
+----------
 
-## Line break with dash
-Syntax:
+## Quebra de linha com traço
+
+
+Sintaxe:
+```language
+----------
 ```
----
-```
 
-Usage:
+Exemplo:
 
----
+----------
 
-## Image
-Syntax:
-```
+## Imagem
+
+Sintaxe:
+```language
 ![alt](https://link)
 ```
 
-Usage:
+Exemplo:
 
-![github](https://miro.medium.com/max/1125/1*dDNpLKu_oTLzStsDTnkJ-g.png)
+![codiub](https://miro.medium.com/max/1125/1*dDNpLKu_oTLzStsDTnkJ-g.png)
 
----
 
-## Italic
-Syntax:
+----------
+
+## Itálico
+Sintaxe:
+```language
+*Escreva seu texto aqui*
 ```
-*Write your text here*
-```
-Usage:
+Exemplo:
 
-*Write your text here*
+*Escreva seu texto aqui*
 
----
+----------
 
 ## Link
-Syntax:
-```
+
+Sintaxe:
+```language
 [text](https://link)
 ```
-Usage:
-[link website](www.google.com)
+Exemplo:
+[link site codiub](www.codiub.com.br)
 
----
+----------
 
-## Ordered list
-Syntax:
-```
+## Lista ordenada
+
+Sintaxe:
+```language
 1. first
 2. second
 3. third
 ```
-Usage:
+Exemplo:
 1. first
 2. second
 3. third
 
----
+----------
 
-## Unordered list
-Syntax 
+## Citação
+
+Sintaxe:
+```language
+> Escreva seu texto aqui
+```
+
+Exemplo:
+> Escreva seu texto aqui
+
+----------
+
+## Lista desordenada
+
+Sintaxe 
 ```
 - first
 - second
 - third
 ```
 
-Usage:
+Exemplo:
 - first
 - second
 - third
-
----
-
-## Quote
-Syntax:
-```
-> Write your text here
-```
-
-Usage:
-> Write your text here
