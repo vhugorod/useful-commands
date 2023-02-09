@@ -9,7 +9,7 @@ Usage: `mvn install`
 This command is used to install all dependencies.
 
 ## Run local project
-Usage: `mvn spring-boot:run`
+Usage: `mvn spring-boot:run` or `./mvnw spring-boot:run` if u have the maven wrapper
 
 This command is used to run the application.
 
@@ -32,3 +32,5 @@ This command is used to catch all errors application in console.
 Usage: `mvn -q or --quiet`
 
 This command is used to catch only error application in console.
+
+
