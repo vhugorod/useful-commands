@@ -5,6 +5,11 @@ Usage: `git config --global user.email “[email address]”`
 
 This command sets the author name and email address respectively to be used with your commits.
 
+## git config
+Usage: `git config --list`
+
+This command shows your github configuration.
+
 ## git clone
 Usage: `git clone [url]` 
 
