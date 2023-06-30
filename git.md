@@ -29,6 +29,13 @@ Usage: `git add .`
 
 This command adds all files to the staging area.
 
+## git clean -fd
+Usage: `git clean -fd`
+
+This command remove untracked directories in addition to untracked files.
+
+Usage: `git clean -fd`  
+
 ## git commit
 Usage: `git commit -m “[write a semantic commit message]”`
 
