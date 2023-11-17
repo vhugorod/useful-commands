@@ -1,14 +1,12 @@
-## Política de Privacidade do [Nome do Aplicativo]
+## Política de Privacidade do Kiss Me App
 
-## Última atualização: [Data da última atualização]
+## Última atualização: 17/11/2023
 
-Bem-vindo ao [Nome do Aplicativo] ("nós", "nosso" ou "o aplicativo"). Esta Política de Privacidade descreve como coletamos, usamos, compartilhamos e protegemos informações pessoais quando você utiliza nosso aplicativo.
+Bem-vindo ao Kiss Me App. Esta Política de Privacidade descreve como coletamos, usamos, compartilhamos e protegemos informações pessoais quando você utiliza nosso aplicativo.
 
 ## Informações que Coletamos
 
 Podemos coletar as seguintes informações quando você utiliza nosso aplicativo:
-
-Informações de Registro: Podemos coletar seu nome, endereço de e-mail, data de nascimento, nome de usuário e senha quando você cria uma conta no aplicativo.
 
 Comunicações: Registramos as comunicações que você mantém com o aplicativo, como mensagens, avaliações e feedback.
 
@@ -19,8 +17,6 @@ Utilizamos suas informações pessoais para os seguintes propósitos:
 Fornecer, manter e melhorar o aplicativo.
 
 Personalizar sua experiência no aplicativo.
-
-Processar transações e pagamentos, se aplicável.
 
 Cumprir obrigações legais e regulatórias.
 
@@ -36,10 +32,6 @@ Tomamos medidas para proteger suas informações contra acesso não autorizado e
 
 Você tem o direito de acessar, corrigir, excluir ou limitar o uso de suas informações pessoais. Você pode exercer esses direitos entrando em contato conosco.
 
-## Alterações na Política de Privacidade
-
-Podemos atualizar esta política de privacidade periodicamente. Recomendamos que você a revise regularmente.
-
 ## Contato
 
-Se você tiver dúvidas ou preocupações sobre esta política de privacidade, entre em contato conosco pelo e-mail [seu-email-de-contato@example.com].
+Se você tiver dúvidas ou preocupações sobre esta política de privacidade, entre em contato conosco pelo e-mail vitorrodrigueshr10@gmail.com.
