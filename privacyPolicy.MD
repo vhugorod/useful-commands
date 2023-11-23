@@ -8,7 +8,7 @@ Bem-vindo ao Kiss Me! Valorizamos a privacidade dos nossos usuários e tomamos m
 
 1.1 Tipos de Dados Coletados:
 
-Coletamos informações pessoais, como nome, endereço de e-mail e outras informações de contato, quando você se registra ou interage com nosso aplicativo.
+Coletamos informações pessoais, como nome, endereço de e-mail e outras informações de contato, quando você se registra ou interage com nosso aplicativo.  
 
 1.2 Finalidades do Processamento:
 
@@ -18,7 +18,7 @@ Utilizamos essas informações para fornecer e melhorar nosso serviço, personal
 
 2.1 Com Quem Compartilhamos:
 
-Não compartilhamos suas informações pessoais com terceiros, a menos que seja necessário para fornecer nosso serviço ou quando exigido por lei.
+Não compartilhamos suas informações pessoais com terceiros, a menos que seja necessário para fornecer nosso serviço ou quando exigido por lei.  
 
 2.2 Tipos de Dados Compartilhados:
 
@@ -28,7 +28,7 @@ Seus dados pessoais não são compartilhados com terceiros sem o seu consentimen
 
 3.1 Procedimentos de Segurança:
 
-Implementamos medidas de segurança razoáveis para proteger suas informações pessoais contra acesso não autorizado, divulgação, alteração e destruição.
+Implementamos medidas de segurança razoáveis para proteger suas informações pessoais contra acesso não autorizado, divulgação, alteração e destruição.  
 
 3.2 Processamento de Dados Sensíveis:
 
@@ -38,7 +38,7 @@ Se nosso aplicativo processar dados sensíveis, garantiremos procedimentos de se
 
 4.1 Política de Retenção:
 
-Retemos suas informações pessoais apenas pelo tempo necessário para cumprir as finalidades para as quais foram coletadas, a menos que a retenção seja exigida por lei.
+Retemos suas informações pessoais apenas pelo tempo necessário para cumprir as finalidades para as quais foram coletadas, a menos que a retenção seja exigida por lei.  
 
 4.2 Exclusão de Dados:
 
