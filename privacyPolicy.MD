@@ -1,4 +1,4 @@
-Política de Privacidade do Kiss Me
+## Política de Privacidade do Kiss Me
 
 Última Atualização: 23/11/2023
 
