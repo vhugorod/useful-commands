@@ -1,37 +1,56 @@
-## Política de Privacidade do Kiss Me App
+Política de Privacidade do Kiss Me
 
-## Última atualização: 17/11/2023
+Última Atualização: 23/11/2023
 
-Bem-vindo ao Kiss Me App. Esta Política de Privacidade descreve como coletamos, usamos, compartilhamos e protegemos informações pessoais quando você utiliza nosso aplicativo.
+Bem-vindo ao Kiss Me! Valorizamos a privacidade dos nossos usuários e tomamos medidas para garantir a segurança e a confidencialidade das informações pessoais e sensíveis coletadas. Esta política de privacidade explica como coletamos, usamos, compartilhamos e protegemos essas informações.
 
-## Informações que Coletamos
+## 1. Coleta e Uso de Dados
 
-Podemos coletar as seguintes informações quando você utiliza nosso aplicativo:
+1.1 Tipos de Dados Coletados:
 
-Comunicações: Registramos as comunicações que você mantém com o aplicativo, como mensagens, avaliações e feedback.
+Coletamos informações pessoais, como nome, endereço de e-mail e outras informações de contato, quando você se registra ou interage com nosso aplicativo.
+1.2 Finalidades do Processamento:
 
-## Como Usamos Suas Informações
+Utilizamos essas informações para fornecer e melhorar nosso serviço, personalizar sua experiência, enviar atualizações e notificações relevantes e responder às suas solicitações de suporte.
 
-Utilizamos suas informações pessoais para os seguintes propósitos:
+## 2. Compartilhamento de Dados
 
-Fornecer, manter e melhorar o aplicativo.
+2.1 Com Quem Compartilhamos:
 
-Personalizar sua experiência no aplicativo.
+Não compartilhamos suas informações pessoais com terceiros, a menos que seja necessário para fornecer nosso serviço ou quando exigido por lei.
+2.2 Tipos de Dados Compartilhados:
 
-Cumprir obrigações legais e regulatórias.
+Seus dados pessoais não são compartilhados com terceiros sem o seu consentimento expresso.
 
-## Compartilhamento de Informações
+## 3. Segurança e Processamento Seguro de Dados
 
-Não compartilhamos suas informações pessoais com terceiros, exceto quando necessário para fornecer serviços a você, cumprir obrigações legais ou com o seu consentimento.
+3.1 Procedimentos de Segurança:
 
-## Segurança de Dados
+Implementamos medidas de segurança razoáveis para proteger suas informações pessoais contra acesso não autorizado, divulgação, alteração e destruição.
+3.2 Processamento de Dados Sensíveis:
 
-Tomamos medidas para proteger suas informações contra acesso não autorizado e uso indevido.
+Se nosso aplicativo processar dados sensíveis, garantiremos procedimentos de segurança adicionais e obteremos seu consentimento explícito quando necessário.
 
-## Seus Direitos e Escolhas
+## 4. Retenção e Exclusão de Dados
 
-Você tem o direito de acessar, corrigir, excluir ou limitar o uso de suas informações pessoais. Você pode exercer esses direitos entrando em contato conosco.
+4.1 Política de Retenção:
 
-## Contato
+Retemos suas informações pessoais apenas pelo tempo necessário para cumprir as finalidades para as quais foram coletadas, a menos que a retenção seja exigida por lei.
+4.2 Exclusão de Dados:
 
-Se você tiver dúvidas ou preocupações sobre esta política de privacidade, entre em contato conosco pelo e-mail vitorrodrigueshr10@gmail.com.
+Você pode solicitar a exclusão de suas informações pessoais a qualquer momento, sujeito às obrigações legais de retenção.
+
+## 5. Alterações nesta Política de Privacidade
+
+5.1 Notificação de Alterações:
+
+Podemos atualizar esta política de privacidade periodicamente. Notificaremos você sobre quaisquer alterações significativas por meio do aplicativo ou por outros meios de contato fornecidos por você.
+
+## 6. Contato
+
+6.1 Dúvidas e Contato:
+
+Se você tiver dúvidas sobre esta política de privacidade ou sobre suas informações pessoais, entre em contato conosco em kissmeapplication@gmail.com.
+Ao continuar a utilizar nosso aplicativo, você concorda com os termos desta política de privacidade.
+
+Obrigado por escolher Kiss Me!
