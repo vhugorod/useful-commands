@@ -245,6 +245,15 @@ Usage: `git fetch origin git reset --hard origin/master git clean -f -d`
 
 This command is used to sync remote repositories to localhost. It won't show the branch's name, but it's in your SO.
 
+## git ammend
+Usage: `git commit --amend`
+
+This command is used to add a new modification and change the commit message.
+
+Usage: `git commit --amend --no-edit`
+
+This command is used to add a new modification only without a commit message.
+
 ## git rm
 Usage: `git rm -r [file]`
 
