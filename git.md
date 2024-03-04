@@ -194,6 +194,15 @@ This command is used to connect your local repository to the remote server.
 This command fetches and merges changes on the remote server to your working directory.
 
 ## git stash
+Usage: `git stash`  
+
+This command temporarily stores the modified tracked files.
+Later on, we need to change to the main branch, create another branch from the main one, fix the code, merge, go back to the old branch and use git stash apply.
+
+Usage: `git stash apply`  
+
+This command get back the modifications u were working on.
+
 Usage: `git stash save`  
 
 This command temporarily stores all the modified tracked files.
