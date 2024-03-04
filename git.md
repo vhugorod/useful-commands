@@ -228,6 +228,12 @@ Usage: `git tag -d v1.0`
 
 This command is used to delete a local tag.
 
+## git cherry-pick
+
+Usage: `git cherry-pick COMMIT HASH`
+
+This command get the specified commit:
+
 ## git search
 
 Usage: `git grep "foo()"`
